@@ -7,3 +7,11 @@ for i in numbers:
         for j in range(i):
                 output+= 'x'
         print(output)
+
+#L pattern
+# num= [2,2,2,2,5]
+# for i in num:
+#         output= ''
+#         for j in range(i):
+#                 output +='*'
+#         print(output)
