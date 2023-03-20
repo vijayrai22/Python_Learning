@@ -5,6 +5,7 @@ for num in numbers:
         unique.append(num)
 print(unique)
 
+#list operations:
 # numbers= [5,2,1,7,4,5]
 # numbers.append(20) #to append any number in last
 # numbers.insert(0,10) #to to insert any number at given index
